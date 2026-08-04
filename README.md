@@ -16,7 +16,10 @@ Repositório criado para acompanhar meus estudos em Python durante o curso da Sa
   * Tuplas
   * Dicionários
   * Conjuntos (Sets)
-* Funções
+  * Funções
+  * Manejo de exceções
+  * Leitura e Escrita de Arquivos
+  * Importação e criação de módulos
 
 ## Projetos desenvolvidos
 
@@ -26,6 +29,9 @@ Repositório criado para acompanhar meus estudos em Python durante o curso da Sa
 * Sistema de Login
 * Quiz Hogwarts
 * Gerenciador de Matérias
+* Perfil de Artistas
+* Diário de Estudos
+* Projeto de Venda de Ingressos
 
 ## Objetivo
 
