@@ -9,19 +9,20 @@ Repositório criado para acompanhar meus estudos em Python durante o curso da Sa
 * Operadores aritméticos
 * Operadores de comparação
 * Estruturas de controle
-* Estruturas de repetição
-* Estruturas de dados
+* Estruturas de Repetição
 
+* Estruturas de dados
   * Listas
   * Tuplas
   * Dicionários
   * Conjuntos (Sets)
-  * Funções
-  * Manejo de exceções
-  * Leitura e Escrita de Arquivos
-  * Importação e criação de módulos
 
-## Projetos desenvolvidos
+* Funções
+* Manejo de exceções
+* Leitura e Escrita de Arquivos
+* Importação e criação de módulos
+
+## Projetos Práticos
 
 * Calculadora Interativa
 * Calculadora com Funções
@@ -43,3 +44,5 @@ Consolidar os fundamentos de Python e construir uma base sólida para estudos fu
 * Visual Studio Code
 * Git
 * GitHub
+
+Este repositório reúne exercícios, exemplos e projetos desenvolvidos ao longo da formação, registrando minha evolução prática em Python.
